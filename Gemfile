@@ -26,8 +26,8 @@ gem 'jbuilder', '2.2.8'
 gem 'sdoc', '0.4.1', group: :doc
 
 group :production do
-  gem 'pg'
-  gem 'rails_12factor'
+  gem 'pg', '0.18.1'
+  gem 'rails_12factor', '0.0.3'
 end
 
 # Use ActiveModel has_secure_password
