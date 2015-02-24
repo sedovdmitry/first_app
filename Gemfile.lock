@@ -159,9 +159,9 @@ DEPENDENCIES
   coffee-rails (= 4.1.0)
   jbuilder (= 2.2.8)
   jquery-rails (= 4.0.3)
-  pg
+  pg (= 0.18.1)
   rails (= 4.2.0)
-  rails_12factor
+  rails_12factor (= 0.0.3)
   sass-rails (= 5.0.1)
   sdoc (= 0.4.1)
   spring
